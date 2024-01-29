@@ -1,0 +1,51 @@
+# Giriş Sayfası
+
+Animasyonlu Sonbahar temalı bir giriş sayfası.
+
+## İçerik Dosyaları
+
+İçerisinde bir adet **read.me**, **index.html**, **style.css** ve **img** dosyası bulunuyor.
+
+## Kullanılan Diller
+
+* Html
+* Css
+
+## Katkıda Bulunmak 
+
+Çekme istekleri kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak üzere bir konu açın.
+
+Lütfen testleri uygun şekilde güncellediğinizden emin olun.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+# ENGLISH
+
+# Login Page
+
+An animated homepage with a Fall-themed design.
+
+# Content Files
+
+It contains one read.me, index.html, style.css, and img file.
+
+# Languages Used
+
+* Html
+* Css
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+# License
+This project is licensed under the MIT License.
+
+
+
+
+
+
